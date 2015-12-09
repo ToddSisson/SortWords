@@ -1,0 +1,5 @@
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter8Labs\SortWords\bin\Debug\SortWords.exe.config
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter8Labs\SortWords\bin\Debug\SortWords.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter8Labs\SortWords\bin\Debug\SortWords.pdb
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter8Labs\SortWords\obj\Debug\SortWords.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter8Labs\SortWords\obj\Debug\SortWords.pdb
